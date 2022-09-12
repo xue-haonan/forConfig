@@ -12,3 +12,6 @@ eureka:
 
 defale:
   file-path: D:// root
+  
+  
+a: bb
