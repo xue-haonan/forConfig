@@ -11,4 +11,4 @@ eureka:
     enable-self-preservation: true
 
 defale:
-  file-path: D:// root
+  file-path: D://root/a
